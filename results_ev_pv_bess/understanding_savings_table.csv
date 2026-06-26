@@ -1,0 +1,4 @@
+Representative day,EV sessions,EV energy [kWh],Baseline cost [EUR],Smart charging cost [EUR],Saving [EUR],Saving [%],Baseline peak [kW],Smart peak [kW],Peak reduction [kW],Cost saving interpretation,Peak reduction interpretation
+Day 183 (Summer),5,55.0,50.21,49.74,0.47,0.94,15.66,15.66,-0.0,0.47 EUR saved (0.94%),-0.00 kW peak reduction
+Day 23 (Winter),25,288.0,59.73,56.95,2.79,4.67,40.45,29.79,10.66,2.79 EUR saved (4.67%),10.66 kW peak reduction
+Day 153 (Summer),35,463.0,43.72,36.97,6.75,15.44,52.93,42.8,10.13,6.75 EUR saved (15.44%),10.13 kW peak reduction

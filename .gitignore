@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+results_ev_pv_bess/*.txt
