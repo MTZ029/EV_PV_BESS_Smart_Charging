@@ -1,0 +1,26 @@
+
+EV PV BESS SMART CHARGING PROJECT - RESULT EXPLANATION
+
+The project compares two EV charging strategies:
+
+1. Baseline ASAP charging:
+EVs charge as soon as possible after connection.
+
+2. Smart charging:
+EV charging is optimized within the vehicle connection window.
+
+The system includes:
+- fixed hotel load,
+- PV generation,
+- battery energy storage,
+- grid import/export,
+- EV charging demand.
+
+The main result files are:
+- Representative_Days_Performance_Metrics.csv
+- Representative_Days_Performance_Metrics_Report.csv
+- Yearly_EV_Demand_Statistics.csv
+- Representative_Day_XXX_Schedule.csv
+
+The main figures are saved inside:
+- Project_Results/Figures
